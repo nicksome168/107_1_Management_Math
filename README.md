@@ -3,7 +3,7 @@
 ## Demo.ipynb
 * Environment: Python 3.6
 * Package: os, matplotlib, PIL
-* [Download the files] [files]
+* [Download] [files]
 
 
 
